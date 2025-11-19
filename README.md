@@ -1,1 +1,1 @@
-# nlp_2025
+# NLP project - Identification of spoilers
